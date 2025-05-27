@@ -1,11 +1,46 @@
 ﻿# Movie-Recommendation-system
+```markdown
+# 🎬 TMDB Movie Explorer
+
+This project uses TMDB movie metadata to provide insights and visualizations through a Streamlit web app.
+
+## 📦 Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+
+2. **Install required packages**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run preprocessing notebook**
+   Open and run all cells in `Untitled.ipynb` to preprocess the data.
+
+4. **Launch the Streamlit app**
+   ```bash
+   streamlit run app.py
+   ```
+
 ## 📂 Datasets
 
-The following datasets were downloaded from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata):
+Downloaded from [Kaggle - TMDB Movie Metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata):
 
 - [`tmdb_5000_movies.xlsx`](./tmdb_5000_movies.xlsx)
 - [`tmdb_5000_credits.xlsx`](./tmdb_5000_credits.xlsx)
 
-These files contain movie metadata including cast, crew, and other relevant information for over 5,000 movies from TMDB.
+> These contain metadata on over 5,000 movies including cast, crew, genres, and more.
 
-> Original CSV versions are available on the Kaggle dataset page. These have been converted to Excel format for easier viewing and manipulation.
+## 💡 Features
+
+- Explore movies and cast/crew data
+- Visualize trends from TMDB data
+- Simple, interactive UI with Streamlit
+
+---
+
+Made with ❤️ using Python and Streamlit.
+```
