@@ -46,16 +46,9 @@ Downloaded from [Kaggle - TMDB Movie Metadata](https://www.kaggle.com/datasets/t
 ## 📸 Results
 
 Here are some screenshots of the Streamlit web app in action:
-
-![Homepage](images/screenshot1.png)  
-*Main homepage with movie selection*
-
-![Genre Analysis](images/screenshot2.png)  
-*Visualization of popular genres over time*
-
-![Cast Explorer](images/screenshot3.png)  
-*Detailed information about cast and crew*
-
+![Image](https://github.com/user-attachments/assets/39b07349-d845-41f5-aabb-9aa784ceed94)
+![Image](https://github.com/user-attachments/assets/937baa2f-36ff-435e-a9c1-413d374263a4)
+![Image](https://github.com/user-attachments/assets/40e8a3eb-7fbe-44bd-a0e2-dfb1c2bcb7b9)
 
 Made with ❤️ using Python and Streamlit.
 ```
