@@ -42,12 +42,11 @@ Downloaded from [Kaggle - TMDB Movie Metadata](https://www.kaggle.com/datasets/t
 
 ---
 
-```markdown
 ## 📸 Results
 
 Here are some screenshots of the Streamlit web app in action:
-![image alt](https://github.com/bigBlueLizard/Movie-Recommendation-system/blob/e7a5d93adfa7b171c57f4523909afdbe86cd3f4b/images/screenshot1.png)
-![Image](https://github.com/user-attachments/assets/40e8a3eb-7fbe-44bd-a0e2-dfb1c2bcb7b9)
+![Homepage](https://github.com/bigBlueLizard/Movie-Recommendation-system/blob/61ba70df9637442a64ed544a3b868b2123884df3/images/screenshot1.png?raw=true)
+
 
 Made with ❤️ using Python and Streamlit.
 ```
