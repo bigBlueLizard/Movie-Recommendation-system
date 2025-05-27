@@ -1,6 +1,6 @@
 ﻿# Movie-Recommendation-system
 
-# 🎬 TMDB Movie Explorer
+# 🎬 MovieMate: The Movie Explorer
 
 This project uses TMDB movie metadata to provide insights and visualizations through a Streamlit web app.
 
