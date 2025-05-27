@@ -46,7 +46,7 @@ Downloaded from [Kaggle - TMDB Movie Metadata](https://www.kaggle.com/datasets/t
 ## 📸 Results
 
 Here are some screenshots of the Streamlit web app in action:
-![Image](https://github.com/user-attachments/assets/39b07349-d845-41f5-aabb-9aa784ceed94)
+![image](https://github.com/user-attachments/assets/e32bc94f-bfeb-4325-95e6-5caf57698e51)
 ![Image](https://github.com/user-attachments/assets/937baa2f-36ff-435e-a9c1-413d374263a4)
 ![Image](https://github.com/user-attachments/assets/40e8a3eb-7fbe-44bd-a0e2-dfb1c2bcb7b9)
 
