@@ -1,5 +1,5 @@
 ﻿# Movie-Recommendation-system
-```markdown
+
 # 🎬 TMDB Movie Explorer
 
 This project uses TMDB movie metadata to provide insights and visualizations through a Streamlit web app.
